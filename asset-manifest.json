@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1052852.chunk.css",
-    "main.js": "/static/js/main.769e8e93.chunk.js",
-    "main.js.map": "/static/js/main.769e8e93.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.2a9a9797.js",
-    "runtime~main.js.map": "/static/js/runtime~main.2a9a9797.js.map",
-    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
-    "static/js/2.c9400134.chunk.js": "/static/js/2.c9400134.chunk.js",
-    "static/js/2.c9400134.chunk.js.map": "/static/js/2.c9400134.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d22d896d40d307dc8d60721ddfddb4ae.js": "/precache-manifest.d22d896d40d307dc8d60721ddfddb4ae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.d1052852.chunk.css.map": "/static/css/main.d1052852.chunk.css.map"
+    "main.css": "/react-pagination/static/css/main.d1052852.chunk.css",
+    "main.js": "/react-pagination/static/js/main.769e8e93.chunk.js",
+    "main.js.map": "/react-pagination/static/js/main.769e8e93.chunk.js.map",
+    "runtime~main.js": "/react-pagination/static/js/runtime~main.09c4754b.js",
+    "runtime~main.js.map": "/react-pagination/static/js/runtime~main.09c4754b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-pagination/static/css/2.266e55a5.chunk.css",
+    "static/js/2.c9400134.chunk.js": "/react-pagination/static/js/2.c9400134.chunk.js",
+    "static/js/2.c9400134.chunk.js.map": "/react-pagination/static/js/2.c9400134.chunk.js.map",
+    "index.html": "/react-pagination/index.html",
+    "precache-manifest.273520325228cab6e4dfa9879042fb61.js": "/react-pagination/precache-manifest.273520325228cab6e4dfa9879042fb61.js",
+    "service-worker.js": "/react-pagination/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-pagination/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.d1052852.chunk.css.map": "/react-pagination/static/css/main.d1052852.chunk.css.map"
   }
 }
