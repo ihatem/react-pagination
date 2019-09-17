@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="App" style={{ padding: "30px" }}>
       <ContextProvider>
-        <Router>
+        <Router basename="/react-pagination/">
           <h1 className="text-center" style={{ marginBottom: "60px" }}>
             Posts from{" "}
             <Button target="_blank" href="https://jsonplaceholder.typicode.com">
