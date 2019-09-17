@@ -1,6 +1,7 @@
 {
   "name": "react-pagination",
   "version": "0.1.0",
+  "homepage": "https://hatem.design/react-pagination",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
